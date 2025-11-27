@@ -1,4 +1,4 @@
-# End-to-End Vendor Insights
+# WhenDOOR Insights
 
 ![Workflow](Workflow.png)
 
@@ -135,7 +135,7 @@ Interactive Power BI dashboard covering sales, purchases, margins, vendor health
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/eharshit/End-to-End-Vendor-Insights
+   git clone https://github.com/Samx9x/WhenDOOR
    ```
 2. Install dependencies  
    ```bash
